@@ -1,4 +1,4 @@
-[Full documentation(PDF)](./SaveIQ_Project_Documentation_Aditya_Patil_With_Screenshots (1)-compressed.pdf)
+[Full documentation(PDF)](./SaveIQ_Project_Documentation_Aditya_Patil_With_Screenshots(1)-compressed.pdf)
 # SaveIQ
 
 SaveIQ is a personal finance dashboard for tracking spending, monthly budgets, and savings goals. It includes goal forecasts, analytics, and a local financial coach that answers supported questions from the data in your profile.
